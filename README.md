@@ -56,3 +56,36 @@ Software engineering interviews often involve a subset of coding known as "algor
 * [Big O Notation in Python](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
 * [Big O Notation Practice Questions](https://www.interviewcake.com/big-o-notation-practice-questions)
 * [Big O Notation Concept Quiz](https://brilliant.org/practice/big-o-notation/)
+
+## Technical Writer
+
+Technical writers emphasize communication and document design rather than data analysis, but they are still required to have a strong grasp of technical topics, in order to explain those topics to others. Technical writing in data-related fields typically involves writing documentation and tutorials, and may be a good fit for DS grads with previous writing experience.
+
+Other names for "technical writer" roles include:
+* Programmer Writer
+* Content Developer
+
+### Technical Writer Job Description Example
+
+The official job title here is "Technical Writer - Analytics".
+
+> We're looking for a technical writer who can work directly with development teams in a cross-functional, distributed environment. You'll need a technical background that enables you to work effectively with software development engineers, product managers, and technical program managers. In addition, you'll need excellent communication skills, and a demonstrated ability to deliver high-quality technical publications.
+>
+> Basic Qualifications
+> * Degree or certification in a relevant technical field or equivalent experience
+> * A minimum of 2 years of experience designing and producing content for a technical audience, such as software engineers or FinTech professionals.
+> * Ability to read and write queries using Structured Query Language (SQL).
+> * Experience using multiple documentation tools to write, format, manage, and publish high-quality content.
+> * Experience working with XML-based publishing systems.
+>
+> Preferred Qualifications
+> * Previous experience working in the financial services industry, especially in the financial IT field.
+> * Degree in finance, or equivalent job experience.
+> * Previous experience documenting web applications, APIs and programming libraries.
+> * Ability to write example code in one or more languages, such as Java, Python, or SQL.
+
+### Technical Writer Resources
+
+If you are applying for technical writing positions, one of the most important tasks is preparing a strong portfolio. If you haven't already, start writing tutorials on concepts related to data science.
+
+This [free online textbook](https://pressbooks.bccampus.ca/technicalwriting/) is an excellent place to start for diving deeper into the formal steps of task analysis and document design. You can either read it start to finish, or use it as a reference as needed.
